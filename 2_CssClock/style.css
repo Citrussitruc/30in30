@@ -49,6 +49,10 @@ body {
   transition-timing-function: cubic-bezier(0.23, 1, 0.320, 1);
 }
 
+/* .hour-hand {
+    
+} */
+
 /* .mid {
     height: 100%;
     width: 2px;
